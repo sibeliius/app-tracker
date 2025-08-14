@@ -1,2 +1,2 @@
 # app-tracker
-Quick CLI tool for tracking application statuses for jobs/internships
+Quick CLI tool for tracking application statuses for jobs/internships with SQLite.
